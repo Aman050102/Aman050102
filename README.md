@@ -36,7 +36,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: aman.aleekae@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername) *(ใส่ของจริงหากมี)*  
+- 🌐 LinkedIn: https://linkedin.com/in/aman-akelaii-alike-b56437376
 - 🌍 Portfolio (Coming soon)
 
 ---
