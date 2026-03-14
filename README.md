@@ -26,7 +26,7 @@
 
 ### 🚀 Highlighted Projects
 
-#### [cite_start]🛠️ **UP-Maintenance Control System (UP-MCS)** 
+#### 🛠️ **UP-Maintenance Control System (UP-MCS)** 
 * **Role:** QA / Automation Tester (2026) 
 * **Key Tech:** Selenium Webdriver, Java 
 * **Achievement:** ออกแบบและพัฒนา Test Script สำหรับกระบวนการแจ้งซ่อมหอพักแบบครบวงจร (End-to-End) พร้อมระบบวิเคราะห์ผลการทดสอบและรายงานอัตโนมัติ 
@@ -39,7 +39,8 @@
 #### 🤖 **Fall Detection Web** 
 * **Role:** Developer & Quality Control (2025) 
 * **Key Tech:** AI, Computer Vision 
-* **Achievement:** ระบบตรวจจับการล้มแบบ Real-time เพื่อส่งความช่วยเหลือไปยังผู้ดูแลอย่างทันท่วงที 
+* **Achievement:** ระบบตรวจจับการล้มแบบ Real-time เพื่อส่งความช่วยเหลือไปยังผู้ดูแลอย่างทันท่วงที
+* **production:** [Fall Detection Web](https://fall-detection-web-tawny.vercel.app) 
 
 ---
 
